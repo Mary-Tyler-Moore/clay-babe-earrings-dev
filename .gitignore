@@ -1,0 +1,12 @@
+/logs
+*.log
+.DS_Store
+/node_modules
+.env
+.env.development
+.env.production
+.cache
+/public
+/lambda
+.netlify
+.history
